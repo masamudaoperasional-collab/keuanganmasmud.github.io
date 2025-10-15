@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const WEBHOOKS = {
         sales: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook/closing-sales-summary-',
         estatement: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook/e_statement',
-        estatementSummary: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook-test/e_statement-summary',
+        estatementSummary: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook/e_statement-summary',
         bankTransaction: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook/hookbanktransaction',
         expenseMatch: 'https://n8n-uievozfh3got.bgxy.sumopod.my.id/webhook/read-output-formexpense-match'
     };
